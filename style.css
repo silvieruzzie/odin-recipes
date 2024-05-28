@@ -1,0 +1,45 @@
+* {
+    background-color: rgb(136, 101, 101);
+    font-family: "Trebuchet MS", sans-serif;
+}
+
+.website-title {
+    text-align: center;
+    color:rgb(165, 15, 15);
+}
+
+.recipe-link {
+    text-decoration: none;
+}
+
+.recipe {
+    list-style: none;
+    text-align: center;
+    padding-bottom: 1rem;
+    font-weight: bold;
+}
+
+a:active {
+    color: rgb(165, 15, 15);
+}
+
+a:hover {
+    color: black;
+}
+
+.recipe-list {
+    margin-left: -7%;
+}
+
+a:visited {
+    color: rgb(100, 25, 25);
+}
+
+.recipe-img {
+    width: 300px;
+    margin: auto;
+}
+
+.img-wrapper {
+    display: flex;
+}
